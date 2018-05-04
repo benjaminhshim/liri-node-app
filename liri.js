@@ -135,7 +135,11 @@ function doIt() {
         var doText = data.split(',');
         // console.log(doText);
 
-        spotifyThis(doText[1]);
+        if (doText[0] == 'spotify-this-song') {
+            spotifyThis(doText[1]);
+        } else if (doText[0] == 'movie-this') {
+            movieThis(doText[1]);
+        }
 
     });
 };
@@ -147,8 +151,6 @@ function doIt() {
 
 // =========== LOG TWEETS ============ //
 function logTweets(myTweets) {
-    
-
     fs.appendFile('log.txt', '\n' + myTweets + '\n', function(err) {
         if (err) {
             return console.log(err);
@@ -158,7 +160,6 @@ function logTweets(myTweets) {
 
 // =========== LOG SPOTIFY ============ //
 function logSpotify(songData) {
-
     var spotifyData = JSON.stringify(songData, null, 2);
     fs.appendFile('log.txt', '\n' + 'SONG' + '\n' + spotifyData + '\n=========================================================================', function(err) {
         if (err) {
@@ -170,7 +171,6 @@ function logSpotify(songData) {
 
 // =========== LOG OMDB ============ //
 function logOMDB(movieData) {
-
     var omdbData = JSON.stringify(movieData, null, 2);
 
     fs.appendFile('log.txt', '\n' + 'MOVIE' + '\n' + omdbData + '\n=========================================================================', function(err) {
