@@ -5,15 +5,15 @@ LIRI is a command line node app that takes user input and outputs data based on 
 
 # Setup
 ```
-npm install twitter<br>
-npm install spotify<br>
-npm install request<br>
-npm install fs<br>
+npm install twitter
+npm install spotify
+npm install request
+npm install fs
 ```
 
 # Examples
 To retrieve Kanye's last 20 tweets:<br>
-node liri.js my-tweets
+```node liri.js my-tweets```
 
 To retrieve the Artist, Album, Title and Artist's Spotify Profile of a song:<br>
 ```
