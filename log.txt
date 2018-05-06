@@ -1,4 +1,16 @@
 
+we’re starting a Yeezy architecture arm called Yeezy home. We’re looking for architects and industrial designers wh… https://t.co/0DGrDZ9DEz
+
+naps are awesome
+
+All music coming out of Yeezy sound has to ride like the new Tesla   Yeezy sound is Tesla radio
+
+hologram https://t.co/yx0N61hrcr
+
+I love the 700 V2s https://t.co/tVCUz4GZpL
+
+take a walk outside.  Fresh air is healing
+
 In a moment of inspiration, energy and excitement I had posted this sketch and would like to acknowledge the true c… https://t.co/e6rRdA9Ae4
 
 Today I learned that a newly hired designer on the Yeezy team presented work that was not of their own. This person… https://t.co/56QUEjfpA7
@@ -27,20 +39,6 @@ https://t.co/MO7BYwIB0b
 
 https://t.co/IeNUbKXIZH
 
-https://t.co/cGFzbVSNS6
-
-this is so helpful. I'm always a student. I'm learning about love https://t.co/IknblRx4Pk
-
-most fear is learned
-
-energy meeting. Beings from all different backgrounds https://t.co/iJteS5MMbY
-
-when the media masses and scholars talk about what started today. Here's a title ... 
-
-the overground hell road
-
-in school we need to learn how magic Johnson built his business not always about the past. Matter fact I've never e… https://t.co/pbEjTJeCgR
-
 SONG
 {
   "Artist": "Drake",
@@ -59,49 +57,5 @@ MOVIE
   "Language": "English",
   "Plot": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
   "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans"
-}
-=========================================================================
-SONG
-{
-  "Artist": "Backstreet Boys",
-  "Album": "The Hits--Chapter One",
-  "Song Name": "I Want It That Way",
-  "Artist Profile": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-}
-=========================================================================
-SONG
-{
-  "Artist": "Backstreet Boys",
-  "Album": "The Hits--Chapter One",
-  "Song Name": "I Want It That Way",
-  "Artist Profile": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-}
-=========================================================================
-SONG
-{
-  "Artist": "Backstreet Boys",
-  "Album": "The Hits--Chapter One",
-  "Song Name": "I Want It That Way",
-  "Artist Profile": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-}
-=========================================================================
-SONG
-{
-  "Artist": "Backstreet Boys",
-  "Album": "The Hits--Chapter One",
-  "Song Name": "I Want It That Way",
-  "Artist Profile": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
-}
-=========================================================================
-MOVIE
-{
-  "Title": "The Avengers",
-  "Release Year": "2012",
-  "IMDB Rating": "8.1",
-  "Rotten Tomatoes Rating": "92%",
-  "Was produced in": "USA",
-  "Language": "English, Russian, Hindi",
-  "Plot": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
-  "Actors": "Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth"
 }
 =========================================================================

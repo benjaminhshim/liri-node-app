@@ -33,6 +33,7 @@ if (command === 'my-tweets') {
 
 };
 
+// ========================= GET DATA FROM API ========================= //
 
 // =========== RUN TWITTER ============ //
 function tweets() {
@@ -52,8 +53,6 @@ function tweets() {
         };
     });
 };
-
-// ========================= GET DATA FROM API ========================= //
 
 // =========== RUN SPOTIFY ============ //
 function spotifyThis(songName) {
