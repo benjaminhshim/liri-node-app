@@ -59,3 +59,71 @@ MOVIE
   "Actors": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo, Chris Evans"
 }
 =========================================================================
+Childish Gambino - This is America     https://t.co/sknjKSgj8c
+
+😂😂😂🔥🔥🔥 https://t.co/KmvxIwKkU6
+
+we’re starting a Yeezy architecture arm called Yeezy home. We’re looking for architects and industrial designers wh… https://t.co/0DGrDZ9DEz
+
+naps are awesome
+
+All music coming out of Yeezy sound has to ride like the new Tesla   Yeezy sound is Tesla radio
+
+hologram https://t.co/yx0N61hrcr
+
+I love the 700 V2s https://t.co/tVCUz4GZpL
+
+take a walk outside.  Fresh air is healing
+
+In a moment of inspiration, energy and excitement I had posted this sketch and would like to acknowledge the true c… https://t.co/e6rRdA9Ae4
+
+Today I learned that a newly hired designer on the Yeezy team presented work that was not of their own. This person… https://t.co/56QUEjfpA7
+
+enjoy the present
+
+if you’re in the way of your own life you’ll end up in the way of other people’s lives too
+
+I can’t wait for electric planes.  Elon please hurry up with the ⚡️ jets😭
+
+I can still feel the love
+
+@yeezy https://t.co/hVoaVm3EUY
+
+https://t.co/IxydIAseI0
+
+https://t.co/5smCEzqTmA
+
+https://t.co/d3FttWufBL
+
+https://t.co/jZ62l9x8GV
+
+https://t.co/jCkREE9NzP
+
+SONG
+{
+  "Artist": "Calvin Harris",
+  "Album": "One Kiss (with Dua Lipa)",
+  "Song Name": "One Kiss (with Dua Lipa)",
+  "Artist Profile": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+}
+=========================================================================
+MOVIE
+{
+  "Title": "Ready Player One",
+  "Release Year": "2018",
+  "IMDB Rating": "7.8",
+  "Rotten Tomatoes Rating": "74%",
+  "Was produced in": "USA",
+  "Language": "English",
+  "Plot": "When the creator of a virtual reality world called the OASIS dies, he releases a video in which he challenges all OASIS users to find his Easter Egg, which will give the finder his fortune.",
+  "Actors": "Tye Sheridan, Olivia Cooke, Ben Mendelsohn, Lena Waithe"
+}
+=========================================================================
+SONG
+{
+  "Artist": "Backstreet Boys",
+  "Album": "The Hits--Chapter One",
+  "Song Name": "I Want It That Way",
+  "Artist Profile": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7"
+}
+=========================================================================
