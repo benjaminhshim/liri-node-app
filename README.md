@@ -13,7 +13,9 @@ npm install fs
 
 # Examples
 To retrieve Kanye's last 20 tweets:<br>
-```node liri.js my-tweets```
+```
+node liri.js my-tweets
+```
 
 To retrieve the Artist, Album, Title and Artist's Spotify Profile of a song:<br>
 ```
